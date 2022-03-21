@@ -20,7 +20,6 @@ public class BankMain {
         System.out.println("____________________________");
         ca.deposit(1500);
         ca2.deposit(300);
-        ca.
         ca.printBankStatement();
         ca2.printBankStatement();
 
